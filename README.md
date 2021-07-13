@@ -1,4 +1,4 @@
-### Hey there! 👋🏻
+### Hey there! 👋
 
 <details>
   <summary>Here's some websites I made.</summary>
