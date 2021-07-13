@@ -4,8 +4,8 @@
   <summary>Here's some websites I made.</summary>
   
   > **bernzrdo**  
-  > Personal website _(Needs an update)_  
-  > [bernzrdo.now.sh](https://bernzrdo.now.sh/)  
+  > Personal website 
+  > [bernzrdo.glitch.me](https://bernzrdo.glitch.me/)  
 
   > **Luso News**  
   > Fake news website  
