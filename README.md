@@ -1,61 +1,61 @@
-### Hey there! ( *・∀・)ノ゛
-
-<details>
-  <summary>Here's some websites I made.</summary>
+<div align="center">
   
-  > **bernzrdo**  
-  > Personal website 
-  > [bernzrdo.glitch.me](https://bernzrdo.glitch.me/)  
-
-  > **Luso News**  
-  > Fake news website  
-  > [lusonews.now.sh](https://lusonews.now.sh/)  
-
-  > **Custom Discs**  
-  > Custom discs resource pack generator _(Weak UX)_  
-  > [bernzrdo.github.io/customdiscs](https://bernzrdo.github.io/customdiscs/)  
-
-  > **sapo**  
-  > Help page for a Discord bot _(Abandoned)_  
-  > [sapo.now.sh](https://sapo.now.sh/)  
-
-  > **Guess Who**  
-  > Playable Guess Who game _(Weak UX)_  
-  > [bernzrdo.github.io/guesswho](https://bernzrdo.github.io/guesswho/)  
-
-  > **Dashboard**  
-  > School project  
-  > [bernzrdo.github.io/dashboard](https://bernzrdo.github.io/dashboard/)  
-
-  > **Slayyyter**  
-  > School project  
-  > [bernzrdo.github.io/slayyyter](https://bernzrdo.github.io/slayyyter/)  
-
-  > **Pregnancy Detector**  
-  > Joke pregnancy test website  
-  > [pregnancy.neocities.org](https://pregnancy.neocities.org/)  
-
-  > **Tasklist**  
-  > Tasklist web app for iPhone _(Contains bugs)_  
-  > [tasklist.neocities.org](https://tasklist.neocities.org/)  
-
-  > **QuickStream**  
-  > Listen to a preview of each song in an album  
-  > [quickstream.neocities.org](https://quickstream.neocities.org/)  
-
-  > **MusicData**  
-  > Music preview using iTunes _(Weak UX)_  
-  > [musicdata.neocities.org](https://musicdata.neocities.org/)  
-
-  > **Instituições e Orgãos da UE**  
-  > School project  
-  > [ioue.neocities.org](https://ioue.neocities.org/)  
-
-  > **MADDOG™**  
-  > Teen influencer squad _(Abandoned)_  
-  > [maddogtm.neocities.org](https://maddogtm.neocities.org/)  
-
-  > **Inspiral**  
-  > Concept for social network. _(Abandoned)_  
-  > [inspiral.neocities.org](https://inspiral.neocities.org/)  
-</details>
+  <img src="https://bernzrdo.wtf/favicon.ico" height="30">
+  <h2>welcome!! &#10032;</h2>
+  
+  <p>things i've used in my <abbr title="since may 7, 2017"><b>5 years</b></abbr> of programming</p>
+  
+  <img title="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30">
+  <img title="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30">
+  <img title="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30">
+  <img title="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30">
+  <img title="dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30">
+  <img title="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30">
+  <img title="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30">
+  <img title="lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30">
+  <img title="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30">
+  <img title="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30">
+  <br>
+  <img title="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30">
+  <img title="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30">
+  <img title="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30">
+  <img title="redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30">
+  <img title="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30">
+  <img title="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30">
+  <img title="laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30">
+  <img title="unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30">
+  <img title="flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30">
+  <img title="angularjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30">
+  <br>
+  <img title="electron" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30">
+  <img title="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30">
+  <img title="xamarin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="30">
+  <img title="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30">
+  <img title="ionic" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30">
+  <img title="nodewebkit" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-original.svg" height="30">
+  <img title="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30">
+  <img title="webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30">
+  <img title="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30">
+  <img title="discordjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30">
+  <br>
+  <img title="tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30">
+  <img title="jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30">
+  <img title="socketio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30">
+  <img title="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30">
+  <img title="visual studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30">
+  <img title="android studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30">
+  <img title="intellij" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30">
+  <img title="bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30">
+  <img title="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30">
+  <img title="blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30">
+  <br>
+  <img title="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30">
+  <img title="trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30">
+  <img title="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30">
+  <img title="yarn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30">
+  
+  <br>
+  
+  <i>(this list might be incomplete)</i>
+  
+</div>
