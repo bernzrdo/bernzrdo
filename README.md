@@ -56,6 +56,6 @@
   
   <br>
   
-  <i>(this list might be incomplete)</i>
+  <i>(unordered & incomplete)</i>
   
 </div>
