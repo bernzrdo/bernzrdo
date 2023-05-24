@@ -3,7 +3,7 @@
   <img src="https://bernzrdo.wtf/favicon.ico" height="30">
   <h2>welcome!! &#10032;</h2>
   
-  <p>things i've used in my <b><ins title="since may 7, 2017">5 years</ins></b> of programming</p>
+  <p>things i've used in my <b><ins title="since may 7, 2017">6 years</ins></b> of programming</p>
   
   <img title="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30">
   <img title="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30">
