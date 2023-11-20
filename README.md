@@ -1,4 +1,4 @@
- <img src="https://bernzrdo.wtf/img/bowser.png" height="150" align="left">
+ <img src="https://bernzrdo.wtf/img/bowser.png" align="left">
 
  ### Welcome!
 
